@@ -59,6 +59,8 @@ No details available. More to come later.
 
 Thanks to SoundCloud for making such a great sound sharing platform + API.
 
+SoundCloud PHP API Wrapper created by Anton Lindqvist
+
 
 ## Copyright and License
 
