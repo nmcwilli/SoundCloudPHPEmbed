@@ -48,7 +48,6 @@ if (isset($soundcloudURL))
 	// If link is VALID - no errors
 	if (empty($e))
 	{
-		
 		// Render soundcloud html5 player
 		print $track->html;
 	}
