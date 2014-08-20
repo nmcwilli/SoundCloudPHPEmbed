@@ -22,7 +22,7 @@ SoundCloudPHPEmbed is a PHP script to analyze SoundCloud URL's from your source 
 
 ### What's included
 
-Just the code as seen ... no other project files
+The code for SoundCloudPHPEmbed with customizeable environment variables + SoundCloud PHP API Wrapper by Anton Lindqvist
 
 
 ## Bugs and feature requests
